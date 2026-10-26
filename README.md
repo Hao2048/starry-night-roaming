@@ -27,22 +27,18 @@
 沿小路穿越城镇，环绕展示星空，最后停留在金色麦田。
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/0b441fa4-cb43-4495-96bd-9b2e1cbb64de">
-    <img src="Documentation/media/roaming-29s.gif" width="800" alt="29 秒漫游循环展示：小路、城镇、星空与麦田">
-  </a>
+  <img src="Documentation/media/roaming-29s.gif" width="800" alt="29 秒漫游循环展示：小路、城镇、星空与麦田">
 </p>
-<p align="center"><a href="https://github.com/user-attachments/assets/0b441fa4-cb43-4495-96bd-9b2e1cbb64de">观看高清漫游视频 · 29 秒</a></p>
+<p align="center"><a href="https://github.com/Hao2048/starry-night-roaming/raw/refs/heads/main/Documentation/media/roaming-29s.mp4?download=1">下载高清漫游视频 · 29 秒</a></p>
 
 ### 在笔触之间穿梭 · 前 4 秒
 
 深入星空区域，观察近处笔触与远处星光的视差。这一段只保留独立穿梭视频的前 4 秒。
 
 <p align="center">
-  <a href="https://github.com/user-attachments/assets/1f7bcc88-369a-4c0c-bb5c-2a6d04b15dda">
-    <img src="Documentation/media/sky-flight-4s.gif" width="800" alt="星空笔触穿梭循环展示：仅前 4 秒">
-  </a>
+  <img src="Documentation/media/sky-flight-4s.gif" width="800" alt="星空笔触穿梭循环展示：仅前 4 秒">
 </p>
-<p align="center"><a href="https://github.com/user-attachments/assets/1f7bcc88-369a-4c0c-bb5c-2a6d04b15dda">观看高清穿梭视频 · 4 秒</a></p>
+<p align="center"><a href="https://github.com/Hao2048/starry-night-roaming/raw/refs/heads/main/Documentation/media/sky-flight-4s.mp4?download=1">下载高清穿梭视频 · 4 秒</a></p>
 
 > 视频使用项目中实际三维场景的相机画面，按固定时间逐帧采集，隐藏了操作界面。视频输出帧率为 30 fps，不代表实时性能测试结果。
 
