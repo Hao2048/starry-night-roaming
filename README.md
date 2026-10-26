@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="docs/media/icon.svg" width="112" alt="星空漫游图标">
+  <img src="Documentation/media/icon.svg" width="112" alt="星空漫游图标">
 </p>
 <h1 align="center">星空漫游 · Starry Night Roaming</h1>
 <p align="center"><strong>把梵高的笔触，变成可以穿行的三维世界。</strong></p>
@@ -12,7 +12,7 @@
   <a href="#开发与项目结构">开发说明</a>
 </p>
 
-![游戏开始界面：尚未进入漫游](docs/media/start-screen.jpg)
+![游戏开始界面：尚未进入漫游](Documentation/media/start-screen.jpg)
 
 《星空漫游》是一款以梵高《星空》为灵感的单人艺术漫游作品。进入画面后，可以沿着柏树旁的小路走进村庄，经过教堂、农舍与麦田，也可以升到空中，从不同角度观察星光和旋涡之间的空间层次。
 
@@ -26,7 +26,7 @@
 
 https://github.com/user-attachments/assets/f2e428ba-6fc4-4825-b63f-6b71acfac191
 
-[播放完整漫游视频](docs/media/roaming-29s.mp4)
+[播放完整漫游视频](Documentation/media/roaming-29s.mp4)
 
 ### 在笔触之间穿梭 · 前 4 秒
 
@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/f2e428ba-6fc4-4825-b63f-6b71acfac191
 
 https://github.com/user-attachments/assets/536dc479-b315-4bac-9681-4face3d8f664
 
-[播放星空穿梭视频](docs/media/sky-flight-4s.mp4)
+[播放星空穿梭视频](Documentation/media/sky-flight-4s.mp4)
 
 > 视频使用项目中实际三维场景的相机画面，按固定时间逐帧采集，隐藏了操作界面。视频输出帧率为 30 fps，不代表实时性能测试结果。
 
@@ -115,7 +115,7 @@ Assets/
     Editor/                        # 离线生成与美术调整工具
     FittedMeshes/                  # 场景使用的构图笔触网格
     PainterlyTownMeshes/           # 城镇、道路、麦田与山体网格
-docs/media/                        # README 图标、截图与视频
+Documentation/media/                        # README 图标、截图与视频
 Packages/                          # Unity 包依赖
 ProjectSettings/                   # 工程设置
 ```
