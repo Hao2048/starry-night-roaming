@@ -27,9 +27,7 @@
 沿小路穿越城镇，环绕展示星空，最后停留在金色麦田。
 
 <div align="center">
-
-https://github.com/user-attachments/assets/0b441fa4-cb43-4495-96bd-9b2e1cbb64de
-
+  <video src="https://github.com/user-attachments/assets/0b441fa4-cb43-4495-96bd-9b2e1cbb64de" controls width="800"></video>
 </div>
 <p align="center"><a href="https://github.com/Hao2048/starry-night-roaming/raw/refs/heads/main/Documentation/media/roaming-29s.mp4?download=1">下载高清漫游视频 · 29 秒</a></p>
 
