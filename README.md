@@ -14,7 +14,7 @@
 
 ![游戏开始界面：尚未进入漫游](Documentation/media/start-screen.jpg)
 
-《星空漫游》是一款以梵高《星空》为灵感的单人艺术漫游作品。进入画面后，可以沿着柏树旁的小路走进村庄，经过教堂、农舍与麦田，也可以升到空中，从不同角度观察星光和旋涡之间的空间层次。
+《星空漫游》是一款以梵高《星空》为灵感的单人艺术漫游作品。场景与程序代码由人工智能生成，并根据视觉反馈持续调整优化。进入画面后，可以沿着柏树旁的小路走进村庄，经过教堂、农舍与麦田，也可以升到空中，从不同角度观察星光和旋涡之间的空间层次。
 
 它把观赏和探索作为主要体验：没有任务、战斗、计分或拖放物品。你可以自由选择视角，也可以让自动运镜带你游览。
 
@@ -24,7 +24,7 @@
 
 沿小路穿越城镇，环绕展示星空，最后停留在金色麦田。
 
-https://github.com/user-attachments/assets/f2e428ba-6fc4-4825-b63f-6b71acfac191
+https://github.com/user-attachments/assets/0b441fa4-cb43-4495-96bd-9b2e1cbb64de
 
 [播放完整漫游视频](Documentation/media/roaming-29s.mp4)
 
@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/f2e428ba-6fc4-4825-b63f-6b71acfac191
 
 深入星空区域，观察近处笔触与远处星光的视差。这一段只保留独立穿梭视频的前 4 秒。
 
-https://github.com/user-attachments/assets/536dc479-b315-4bac-9681-4face3d8f664
+https://github.com/user-attachments/assets/1f7bcc88-369a-4c0c-bb5c-2a6d04b15dda
 
 [播放星空穿梭视频](Documentation/media/sky-flight-4s.mp4)
 
