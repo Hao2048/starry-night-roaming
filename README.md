@@ -12,7 +12,9 @@
   <a href="#开发与项目结构">开发说明</a>
 </p>
 
-![游戏开始界面：尚未进入漫游](Documentation/media/start-screen.jpg)
+<p align="center">
+  <img src="Documentation/media/start-screen.jpg" width="960" alt="游戏开始界面：尚未进入漫游">
+</p>
 
 《星空漫游》是一款以梵高《星空》为灵感的单人艺术漫游作品。场景与程序代码由人工智能生成，并根据视觉反馈持续调整优化。进入画面后，可以沿着柏树旁的小路走进村庄，经过教堂、农舍与麦田，也可以升到空中，从不同角度观察星光和旋涡之间的空间层次。
 
@@ -24,17 +26,23 @@
 
 沿小路穿越城镇，环绕展示星空，最后停留在金色麦田。
 
-https://github.com/user-attachments/assets/0b441fa4-cb43-4495-96bd-9b2e1cbb64de
-
-[播放完整漫游视频](Documentation/media/roaming-29s.mp4)
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/0b441fa4-cb43-4495-96bd-9b2e1cbb64de">
+    <img src="Documentation/media/roaming-29s.gif" width="800" alt="29 秒漫游循环展示：小路、城镇、星空与麦田">
+  </a>
+</p>
+<p align="center"><a href="https://github.com/user-attachments/assets/0b441fa4-cb43-4495-96bd-9b2e1cbb64de">观看高清漫游视频 · 29 秒</a></p>
 
 ### 在笔触之间穿梭 · 前 4 秒
 
 深入星空区域，观察近处笔触与远处星光的视差。这一段只保留独立穿梭视频的前 4 秒。
 
-https://github.com/user-attachments/assets/1f7bcc88-369a-4c0c-bb5c-2a6d04b15dda
-
-[播放星空穿梭视频](Documentation/media/sky-flight-4s.mp4)
+<p align="center">
+  <a href="https://github.com/user-attachments/assets/1f7bcc88-369a-4c0c-bb5c-2a6d04b15dda">
+    <img src="Documentation/media/sky-flight-4s.gif" width="800" alt="星空笔触穿梭循环展示：仅前 4 秒">
+  </a>
+</p>
+<p align="center"><a href="https://github.com/user-attachments/assets/1f7bcc88-369a-4c0c-bb5c-2a6d04b15dda">观看高清穿梭视频 · 4 秒</a></p>
 
 > 视频使用项目中实际三维场景的相机画面，按固定时间逐帧采集，隐藏了操作界面。视频输出帧率为 30 fps，不代表实时性能测试结果。
 
@@ -54,20 +62,25 @@ git clone https://github.com/Hao2048/starry-night-roaming.git
 
 ### 操作方式
 
-| 操作 | 按键 |
-| --- | --- |
-| 前后左右移动 | W / A / S / D |
-| 转动视角 | 按住鼠标右键拖动 |
-| 降低 / 升高 | Q / E |
-| 加速移动 | Shift |
-| 回到起始机位 | R |
-| 开始 / 停止自动运镜 | T |
-| 暂停 / 继续自动运镜 | P |
-| 重播原画入场过渡 | O |
-| 开关轻微笔触流动 | F |
-| 隐藏 / 显示漫游界面 | F10 |
-| 查看操作指南 | H |
-| 暂停 / 继续 | Esc |
+<div align="center">
+  <table>
+    <thead><tr><th align="center">操作</th><th align="center">按键</th></tr></thead>
+    <tbody>
+      <tr><td align="center">前后左右移动</td><td align="center">W / A / S / D</td></tr>
+      <tr><td align="center">转动视角</td><td align="center">按住鼠标右键拖动</td></tr>
+      <tr><td align="center">降低 / 升高</td><td align="center">Q / E</td></tr>
+      <tr><td align="center">加速移动</td><td align="center">Shift</td></tr>
+      <tr><td align="center">回到起始机位</td><td align="center">R</td></tr>
+      <tr><td align="center">开始 / 停止自动运镜</td><td align="center">T</td></tr>
+      <tr><td align="center">暂停 / 继续自动运镜</td><td align="center">P</td></tr>
+      <tr><td align="center">重播原画入场过渡</td><td align="center">O</td></tr>
+      <tr><td align="center">开关轻微笔触流动</td><td align="center">F</td></tr>
+      <tr><td align="center">隐藏 / 显示漫游界面</td><td align="center">F10</td></tr>
+      <tr><td align="center">查看操作指南</td><td align="center">H</td></tr>
+      <tr><td align="center">暂停 / 继续</td><td align="center">Esc</td></tr>
+    </tbody>
+  </table>
+</div>
 
 暂停菜单可返回开始界面。自由漫游支持升降，更适合用鼠标和键盘探索；内置自动运镜路线约 80 秒。
 
