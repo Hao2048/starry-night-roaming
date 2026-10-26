@@ -35,9 +35,9 @@
 
 深入星空区域，观察近处笔触与远处星光的视差。这一段只保留独立穿梭视频的前 4 秒。
 
-<p align="center">
-  <img src="Documentation/media/sky-flight-4s.gif" width="800" alt="星空笔触穿梭循环展示：仅前 4 秒">
-</p>
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/1f7bcc88-369a-4c0c-bb5c-2a6d04b15dda" controls width="800"></video>
+</div>
 <p align="center"><a href="https://github.com/Hao2048/starry-night-roaming/raw/refs/heads/main/Documentation/media/sky-flight-4s.mp4?download=1">下载高清穿梭视频 · 4 秒</a></p>
 
 > 视频使用项目中实际三维场景的相机画面，按固定时间逐帧采集，隐藏了操作界面。视频输出帧率为 30 fps，不代表实时性能测试结果。
